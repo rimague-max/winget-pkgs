@@ -1,0 +1,6 @@
+# FerroCalc24.installer.yaml
+InstallerType: exe
+InstallerUrl: https://github.com/rimague-max/FerroCalc24/releases/download/25.0915.1932.0/FerroCalc24Setup.exe
+InstallerSha256: 2A4322A7ADB7A7F40AEBC007E70066660D2FC43E8DF74371E6CB02EA26AE42D8
+Architecture: x64
+Scope: machine
